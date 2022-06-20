@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "739661272147",
+    "project_id": "blind-assistant-c66b9",
+    "storage_bucket": "blind-assistant-c66b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739661272147:android:2ebe11ce32a452592762a6",
+        "android_client_info": {
+          "package_name": "com.blind.assistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739661272147-2ps4v73lf7ovfjdp7b7l287l0kevkbh9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYp_zqTfMx7WFnWDqQywoN7zm9QQBR3J0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739661272147-2ps4v73lf7ovfjdp7b7l287l0kevkbh9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
